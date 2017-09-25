@@ -1,0 +1,890 @@
+Método: q
+Quantidade: 10000
+Seed: 0
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 0
+Tempo: 0.003
+
+Método: q
+Quantidade: 10000
+Seed: 0
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 0
+Tempo: 0.003
+
+Método: q
+Quantidade: 10000
+Seed: 0
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 0
+Tempo: 0.003
+
+Método: m
+Quantidade: 10000
+Seed: 0
+Tempo: 0.008
+
+Método: q
+Quantidade: 10000
+Seed: 1
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 1
+Tempo: 0.003
+
+Método: m
+Quantidade: 10000
+Seed: 1
+Tempo: 0.01
+
+Método: q
+Quantidade: 10000
+Seed: 2
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 2
+Tempo: 0.003
+
+Método: m
+Quantidade: 10000
+Seed: 2
+Tempo: 0.02
+
+Método: q
+Quantidade: 10000
+Seed: 3
+Tempo: 0.001
+
+Método: h
+Quantidade: 10000
+Seed: 3
+Tempo: 0.003
+
+Método: m
+Quantidade: 10000
+Seed: 3
+Tempo: 0.015
+
+Método: q
+Quantidade: 10000
+Seed: 4
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 4
+Tempo: 0.002
+
+Método: m
+Quantidade: 10000
+Seed: 4
+Tempo: 0.012
+
+Método: q
+Quantidade: 10000
+Seed: 5
+Tempo: 0.002
+
+Método: h
+Quantidade: 10000
+Seed: 5
+Tempo: 0.003
+
+Método: m
+Quantidade: 10000
+Seed: 5
+Tempo: 0.031
+
+Método: q
+Quantidade: 30000
+Seed: 0
+Tempo: 0.006
+
+Método: h
+Quantidade: 30000
+Seed: 0
+Tempo: 0.01
+
+Método: m
+Quantidade: 30000
+Seed: 0
+Tempo: 0.09
+
+Método: q
+Quantidade: 30000
+Seed: 1
+Tempo: 0.006
+
+Método: h
+Quantidade: 30000
+Seed: 1
+Tempo: 0.009
+
+Método: m
+Quantidade: 30000
+Seed: 1
+Tempo: 0.058
+
+Método: q
+Quantidade: 30000
+Seed: 2
+Tempo: 0.006
+
+Método: h
+Quantidade: 30000
+Seed: 2
+Tempo: 0.01
+
+Método: m
+Quantidade: 30000
+Seed: 2
+Tempo: 0.027
+
+Método: q
+Quantidade: 30000
+Seed: 3
+Tempo: 0.006
+
+Método: h
+Quantidade: 30000
+Seed: 3
+Tempo: 0.01
+
+Método: m
+Quantidade: 30000
+Seed: 3
+Tempo: 0.027
+
+Método: q
+Quantidade: 30000
+Seed: 4
+Tempo: 0.006
+
+Método: h
+Quantidade: 30000
+Seed: 4
+Tempo: 0.009
+
+Método: m
+Quantidade: 30000
+Seed: 4
+Tempo: 0.028
+
+Método: q
+Quantidade: 30000
+Seed: 5
+Tempo: 0.006
+
+Método: h
+Quantidade: 30000
+Seed: 5
+Tempo: 0.01
+
+Método: m
+Quantidade: 30000
+Seed: 5
+Tempo: 0.028
+
+Método: q
+Quantidade: 90000
+Seed: 0
+Tempo: 0.019
+
+Método: h
+Quantidade: 90000
+Seed: 0
+Tempo: 0.032
+
+Método: m
+Quantidade: 90000
+Seed: 0
+Tempo: 0.495
+
+Método: q
+Quantidade: 90000
+Seed: 1
+Tempo: 0.02
+
+Método: h
+Quantidade: 90000
+Seed: 1
+Tempo: 0.033
+
+Método: m
+Quantidade: 90000
+Seed: 1
+Tempo: 0.724
+
+Método: q
+Quantidade: 90000
+Seed: 2
+Tempo: 0.021
+
+Método: h
+Quantidade: 90000
+Seed: 2
+Tempo: 0.032
+
+Método: m
+Quantidade: 90000
+Seed: 2
+Tempo: 0.451
+
+Método: q
+Quantidade: 90000
+Seed: 3
+Tempo: 0.021
+
+Método: h
+Quantidade: 90000
+Seed: 3
+Tempo: 0.033
+
+Método: m
+Quantidade: 90000
+Seed: 3
+Tempo: 0.468
+
+Método: q
+Quantidade: 90000
+Seed: 4
+Tempo: 0.02
+
+Método: h
+Quantidade: 90000
+Seed: 4
+Tempo: 0.031
+
+Método: m
+Quantidade: 90000
+Seed: 4
+Tempo: 0.462
+
+Método: q
+Quantidade: 90000
+Seed: 5
+Tempo: 0.02
+
+Método: h
+Quantidade: 90000
+Seed: 5
+Tempo: 0.031
+
+Método: m
+Quantidade: 90000
+Seed: 5
+Tempo: 0.447
+
+Método: q
+Quantidade: 270000
+Seed: 0
+Tempo: 0.069
+
+Método: h
+Quantidade: 270000
+Seed: 0
+Tempo: 0.109
+
+Método: m
+Quantidade: 270000
+Seed: 0
+Tempo: 2.39
+
+Método: q
+Quantidade: 270000
+Seed: 1
+Tempo: 0.068
+
+Método: h
+Quantidade: 270000
+Seed: 1
+Tempo: 0.109
+
+Método: m
+Quantidade: 270000
+Seed: 1
+Tempo: 2.933
+
+Método: q
+Quantidade: 270000
+Seed: 2
+Tempo: 0.07
+
+Método: h
+Quantidade: 270000
+Seed: 2
+Tempo: 0.107
+
+Método: m
+Quantidade: 270000
+Seed: 2
+Tempo: 2.869
+
+Método: q
+Quantidade: 270000
+Seed: 3
+Tempo: 0.069
+
+Método: h
+Quantidade: 270000
+Seed: 3
+Tempo: 0.108
+
+Método: m
+Quantidade: 270000
+Seed: 3
+Tempo: 2.868
+
+Método: q
+Quantidade: 270000
+Seed: 4
+Tempo: 0.068
+
+Método: h
+Quantidade: 270000
+Seed: 4
+Tempo: 0.108
+
+Método: m
+Quantidade: 270000
+Seed: 4
+Tempo: 2.946
+
+Método: q
+Quantidade: 270000
+Seed: 5
+Tempo: 0.069
+
+Método: h
+Quantidade: 270000
+Seed: 5
+Tempo: 0.111
+
+Método: m
+Quantidade: 270000
+Seed: 5
+Tempo: 2.87
+
+Método: q
+Quantidade: 810000
+Seed: 0
+Tempo: 0.27
+
+Método: h
+Quantidade: 810000
+Seed: 0
+Tempo: 0.379
+
+Método: m
+Quantidade: 810000
+Seed: 0
+Tempo: 10.903
+
+Método: q
+Quantidade: 810000
+Seed: 1
+Tempo: 0.282
+
+Método: h
+Quantidade: 810000
+Seed: 1
+Tempo: 0.364
+
+Método: m
+Quantidade: 810000
+Seed: 1
+Tempo: 10.681
+
+Método: q
+Quantidade: 810000
+Seed: 2
+Tempo: 0.265
+
+Método: h
+Quantidade: 810000
+Seed: 2
+Tempo: 0.365
+
+Método: m
+Quantidade: 810000
+Seed: 2
+Tempo: 10.848
+
+Método: q
+Quantidade: 810000
+Seed: 3
+Tempo: 0.287
+
+Método: h
+Quantidade: 810000
+Seed: 3
+Tempo: 0.401
+
+Método: m
+Quantidade: 810000
+Seed: 3
+Tempo: 11.456
+
+Método: q
+Quantidade: 810000
+Seed: 4
+Tempo: 0.271
+
+Método: h
+Quantidade: 810000
+Seed: 4
+Tempo: 0.372
+
+Método: m
+Quantidade: 810000
+Seed: 4
+Tempo: 10.702
+
+Método: q
+Quantidade: 810000
+Seed: 5
+Tempo: 0.276
+
+Método: h
+Quantidade: 810000
+Seed: 5
+Tempo: 0.366
+
+Método: m
+Quantidade: 810000
+Seed: 5
+Tempo: 10.759
+
+Método: q
+Quantidade: 2430000
+Seed: 0
+Tempo: 1.325
+
+Método: h
+Quantidade: 2430000
+Seed: 0
+Tempo: 1.385
+
+Método: m
+Quantidade: 2430000
+Seed: 0
+Tempo: 36.388
+
+Método: q
+Quantidade: 2430000
+Seed: 1
+Tempo: 1.33
+
+Método: h
+Quantidade: 2430000
+Seed: 1
+Tempo: 1.384
+
+Método: m
+Quantidade: 2430000
+Seed: 1
+Tempo: 35.483
+
+Método: q
+Quantidade: 2430000
+Seed: 2
+Tempo: 1.363
+
+Método: h
+Quantidade: 2430000
+Seed: 2
+Tempo: 1.391
+
+Método: m
+Quantidade: 2430000
+Seed: 2
+Tempo: 35.83
+
+Método: q
+Quantidade: 2430000
+Seed: 3
+Tempo: 1.336
+
+Método: h
+Quantidade: 2430000
+Seed: 3
+Tempo: 1.399
+
+Método: m
+Quantidade: 2430000
+Seed: 3
+Tempo: 35.229
+
+Método: q
+Quantidade: 2430000
+Seed: 4
+Tempo: 1.323
+
+Método: h
+Quantidade: 2430000
+Seed: 4
+Tempo: 1.379
+
+Método: m
+Quantidade: 2430000
+Seed: 4
+Tempo: 36.421
+
+Método: q
+Quantidade: 2430000
+Seed: 5
+Tempo: 1.352
+
+Método: h
+Quantidade: 2430000
+Seed: 5
+Tempo: 1.403
+
+Método: m
+Quantidade: 2430000
+Seed: 5
+Tempo: 36.179
+
+Método: q
+Quantidade: 7290000
+Seed: 0
+Tempo: 8.602
+
+Método: h
+Quantidade: 7290000
+Seed: 0
+Tempo: 5.289
+
+Método: m
+Quantidade: 7290000
+Seed: 0
+Tempo: 114.249
+
+Método: q
+Quantidade: 7290000
+Seed: 1
+Tempo: 8.621
+
+Método: h
+Quantidade: 7290000
+Seed: 1
+Tempo: 5.304
+
+Método: m
+Quantidade: 7290000
+Seed: 1
+Tempo: 110.583
+
+Método: q
+Quantidade: 7290000
+Seed: 2
+Tempo: 10.258
+
+Método: h
+Quantidade: 7290000
+Seed: 2
+Tempo: 5.275
+
+Método: m
+Quantidade: 7290000
+Seed: 2
+Tempo: 110.927
+
+Método: q
+Quantidade: 7290000
+Seed: 3
+Tempo: 9.832
+
+Método: h
+Quantidade: 7290000
+Seed: 3
+Tempo: 5.459
+
+Método: m
+Quantidade: 7290000
+Seed: 3
+Tempo: 111.101
+
+Método: q
+Quantidade: 7290000
+Seed: 4
+Tempo: 8.706
+
+Método: h
+Quantidade: 7290000
+Seed: 4
+Tempo: 5.779
+
+Método: m
+Quantidade: 7290000
+Seed: 4
+Tempo: 110.669
+
+Método: q
+Quantidade: 7290000
+Seed: 5
+Tempo: 8.692
+
+Método: h
+Quantidade: 7290000
+Seed: 5
+Tempo: 5.322
+
+Método: m
+Quantidade: 7290000
+Seed: 5
+Tempo: 112.405
+
+Método: q
+Quantidade: 21870000
+Seed: 0
+Tempo: 69.302
+
+Método: h
+Quantidade: 21870000
+Seed: 0
+Tempo: 20.097
+
+Método: m
+Quantidade: 21870000
+Seed: 0
+Tempo: 348.701
+
+Método: q
+Quantidade: 21870000
+Seed: 1
+Tempo: 68.183
+
+Método: h
+Quantidade: 21870000
+Seed: 1
+Tempo: 18.935
+
+Método: m
+Quantidade: 21870000
+Seed: 1
+Tempo: 351.881
+
+Método: q
+Quantidade: 21870000
+Seed: 2
+Tempo: 68.694
+
+Método: h
+Quantidade: 21870000
+Seed: 2
+Tempo: 18.948
+
+Método: m
+Quantidade: 21870000
+Seed: 2
+Tempo: 350.473
+
+Método: q
+Quantidade: 21870000
+Seed: 3
+Tempo: 68.438
+
+Método: h
+Quantidade: 21870000
+Seed: 3
+Tempo: 19.562
+
+Método: m
+Quantidade: 21870000
+Seed: 3
+Tempo: 347.565
+
+Método: q
+Quantidade: 21870000
+Seed: 4
+Tempo: 68.207
+
+Método: h
+Quantidade: 21870000
+Seed: 4
+Tempo: 19.087
+
+Método: m
+Quantidade: 21870000
+Seed: 4
+Tempo: 353.374
+
+Método: q
+Quantidade: 21870000
+Seed: 5
+Tempo: 68.417
+
+Método: h
+Quantidade: 21870000
+Seed: 5
+Tempo: 19.329
+
+Método: m
+Quantidade: 21870000
+Seed: 5
+Tempo: 348.462
+
+Método: q
+Quantidade: 65610000
+Seed: 0
+Tempo: 581.157
+
+Método: h
+Quantidade: 65610000
+Seed: 0
+Tempo: 69.539
+
+Método: m
+Quantidade: 65610000
+Seed: 0
+Tempo: 1082.23
+
+Método: q
+Quantidade: 65610000
+Seed: 1
+Tempo: 583.095
+
+Método: h
+Quantidade: 65610000
+Seed: 1
+Tempo: 70.827
+
+Método: m
+Quantidade: 65610000
+Seed: 1
+Tempo: 1086.39
+
+Método: q
+Quantidade: 65610000
+Seed: 2
+Tempo: 582.239
+
+Método: h
+Quantidade: 65610000
+Seed: 2
+Tempo: 70.535
+
+Método: m
+Quantidade: 65610000
+Seed: 2
+Tempo: 1080.28
+
+Método: q
+Quantidade: 65610000
+Seed: 3
+Tempo: 583.297
+
+Método: h
+Quantidade: 65610000
+Seed: 3
+Tempo: 70.352
+
+Método: m
+Quantidade: 65610000
+Seed: 3
+Tempo: 1083.61
+
+Método: q
+Quantidade: 65610000
+Seed: 4
+Tempo: 580.866
+
+Método: h
+Quantidade: 65610000
+Seed: 4
+Tempo: 70.773
+
+Método: m
+Quantidade: 65610000
+Seed: 4
+Tempo: 1078.21
+
+Método: q
+Quantidade: 65610000
+Seed: 5
+Tempo: 582.153
+
+Método: h
+Quantidade: 65610000
+Seed: 5
+Tempo: 70.612
+
+Método: m
+Quantidade: 65610000
+Seed: 5
+Tempo: 1080.4
+
+Método: i
+Quantidade: 50000
+Seed: -1
+Tempo: 6.058
+
+Método: s
+Quantidade: 50000
+Seed: -1
+Tempo: 4.863
+
+Método: b
+Quantidade: 50000
+Seed: -1
+Tempo: 10.234
+
+Método: q
+Quantidade: 50000
+Seed: -1
+Tempo: 0.008
+
+Método: h
+Quantidade: 50000
+Seed: -1
+Tempo: 0.016
+
+Método: m
+Quantidade: 50000
+Seed: -1
+Tempo: 0.043
+
+Método: i
+Quantidade: 810000
+Seed: 5
+Tempo: 782.965
+
+Método: s
+Quantidade: 810000
+Seed: 5
+Tempo: 978.418
+
+Método: i
+Quantidade: 30000
+Seed: 5
+Tempo: 1.076
+
+Método: s
+Quantidade: 30000
+Seed: 5
+Tempo: 1.342
+
+Método: i
+Quantidade: 90000
+Seed: 5
+Tempo: 9.61
+
+Método: s
+Quantidade: 90000
+Seed: 5
+Tempo: 12.012
+
